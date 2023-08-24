@@ -1,6 +1,4 @@
 import { BsPatchCheckFill } from "react-icons/bs";
-import {RiReactjsLine} from 'react-icons/ri'
-import {FaServer} from 'react-icons/fa'
 import "./services.css";
 
 const Services = () => {
@@ -15,14 +13,14 @@ const Services = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>HTML5</h4>
         
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS</h4>
+                <h4>CSS3</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -46,13 +44,13 @@ const Services = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React JS</h4>
+                <h4>React.js</h4>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Next JS</h4>
+                <h4>Next.js</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -71,7 +69,13 @@ const Services = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Node JS</h4>
+                <h4>Node.js</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Express.js</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -79,37 +83,14 @@ const Services = () => {
               <div>
                 <h4>MongoDB</h4>
               </div>
-            </article>
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>MySQL</h4>
-              </div>
-            </article> */}
+             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Python</h4>
               </div>
             </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Postman</h4>
-              </div>
-            </article>
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Insomnia</h4>
-              </div>
-            </article> */}
-            {/* <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Microsoft Azure</h4>
-              </div>
-            </article> */}
+           
           </div>
         </div>
       </div>
