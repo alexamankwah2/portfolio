@@ -1,14 +1,13 @@
 import {HiOutlineMail} from 'react-icons/hi'
-import {RiMessengerLine} from 'react-icons/ri'
-import {FaWhatsapp} from 'react-icons/fa'
+import {RiGithubFill} from 'react-icons/ri'
+import {RiLinkedinFill} from 'react-icons/ri'
 
 const data = [
     {id: 1, icon: <HiOutlineMail/>, link: 'mailto:amankwahalex22@gmail.com'},
-    {id: 2, icon: <RiMessengerLine/>, link: 'https://www.messenger.com/t/100087217880007'},
-    {id: 3, icon: <FaWhatsapp/>, link: 'https://wa.me/+112345679'}
+    {id: 2, icon: <RiLinkedinFill/>, link: 'www.linkedin.com/in/alex-amankwah'},
+    {id: 3, icon: <RiGithubFill/>, link: 'https://github.com/alexamankwah2'}
+   
 ]
-
-
 
 
 
